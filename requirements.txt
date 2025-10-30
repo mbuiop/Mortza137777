@@ -1,0 +1,92 @@
+# موتورهای بازی سه‌بعدی
+pygame==2.5.0
+pyopengl==3.1.7
+pygame-gui==0.6.9
+panda3d==1.10.13
+pyglet==2.0.10
+arcade==2.6.17
+
+# گرافیک و پردازش تصویر
+opencv-python==4.8.1.78
+pillow==10.0.1
+numpy==1.25.2
+scipy==1.11.2
+matplotlib==3.7.2
+
+# صدا و موسیقی
+pygame-mixer==2.5.0
+pydub==0.25.1
+simpleaudio==1.0.4
+
+# هوش مصنوعی و فیزیک
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+gym==0.26.2
+pymunk==6.4.0
+
+# شبکه و چندنفره
+twisted==23.8.0
+pyopenssl==23.2.0
+websockets==12.0
+
+# داده‌ها و ذخیره‌سازی
+sqlalchemy==2.0.21
+alembic==1.12.0
+redis==5.0.1
+pickleshare==0.7.5
+
+# ابزارهای توسعه
+cython==3.0.0
+numba==0.58.1
+pyinstaller==5.13.0
+py2app==0.28.2
+py2exe==0.11.1.0
+
+# کتابخانه‌های تخصصی بازی
+noise==1.2.2
+perlin-noise==1.12
+opensimplex==0.4.5
+pygame-freetype==2.5.0
+pygame-sdl2==2.1.0
+
+# واقعیت مجازی و پیشرفته
+openvr==1.23.7
+pyopenxr==1.0.2801
+pyovr==0.5.1
+
+# پردازش صوت پیشرفته
+librosa==0.10.1
+pyaudio==0.2.11
+speechrecognition==3.10.0
+
+# بینایی کامپیوتر
+mediapipe==0.10.0
+face-recognition==1.3.0
+pyzbar==0.1.9
+
+# اینترنت اشیاء و سخت‌افزار
+pyserial==3.5
+pybluez==0.23
+RPi.GPIO==0.7.1
+
+# امنیت و رمزنگاری
+cryptography==41.0.4
+pycryptodome==3.18.0
+hashlib==20081119
+
+# رابط کاربری پیشرفته
+pyqt5==5.15.9
+kivy==2.3.0
+dearpygui==1.9.1
+
+# داده‌های بزرگ
+pandas==2.1.1
+dask==2023.8.1
+ray==2.7.0
+
+# تست و مانیتورینگ
+pytest==7.4.2
+pytest-benchmark==4.0.0
+memory-profiler==0.61.0
+psutil==5.9.5
